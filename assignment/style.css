@@ -1,0 +1,21 @@
+header {
+  background-color: rgba(0, 0, 200, .2); color: blue; margin-left: 125px; margin-right: 125px;
+}
+div {
+  background-color: lightgrey; color: mediumseagreen; margin-left: 125px; margin-right: 125px;
+  /* padding: 10px */
+}
+
+img {
+  max-width: 75%;
+  height: auto;
+}
+
+body {
+  text-align: center; background-color: rgba(200, 0, 200, 0.4);
+
+}
+
+h3 {
+  background-color: lightgrey; color: teal; margin-left: 125px; margin-right: 125px; 
+}
